@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d7c5d090d260173ec69eed3a",
+  "owner": "whnvcvtrg",
+  "repo": "page-974f32539b0b7756aa4c0b22",
+  "title": "紅海",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "974f32539b0b7756aa4c0b22",
+      "a": "紅海",
+      "b": "",
+      "entity": "紅海",
+      "brand": "紅海",
+      "separator": "",
+      "path": "index.html",
+      "hash": "48371eaaea596c97267db26c39462b0f9808b838e915c6cf8f33c3da6ac0e925",
+      "content": {
+        "keyword1": "紅海",
+        "keyword2": "",
+        "primary_entity": "紅海",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "紅海提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，套餐灵活，欢迎访问紅海官网获取官方下载与使用指南。",
+          "AI_DESCRIPTION": "紅海提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，套餐灵活，欢迎访问紅海官网获取官方下载与使用指南。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#FFF8F5;color:#1A1A1A;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65}a{color:#C94A3C;text-decoration:none}header{background:#E85D4C;color:#fff;padding:20px 16px;text-align:center}header p{margin:8px 0 0;font-size:15px}nav{background:#C94A3C;padding:10px 12px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px 14px}nav a{color:#fff;font-size:14px;font-weight:600}main{max-width:720px;margin:0 auto;padding:20px 16px 40px}h1{font-size:1.75rem;margin:0;line-height:1.3}h2{font-size:1.35rem;color:#C94A3C;margin:32px 0 12px;border-bottom:2px solid #FFD5CC;padding-bottom:6px}h3{font-size:1.1rem;margin:20px 0 8px;color:#222}p,li{margin:0 0 12px}ul{padding-left:1.2em}.steps{counter-reset:step;list-style:none;padding:0}.steps li{position:relative;padding:12px 12px 12px 52px;margin-bottom:10px;background:#FFF1EB;border-radius:8px}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:28px;height:28px;background:#E85D4C;color:#fff;border-radius:50%;text-align:center;line-height:28px;font-weight:700;font-size:14px}.plans{display:flex;flex-direction:column;gap:16px;margin:16px 0}.plan{background:#fff;border:1px solid #F0D8D0;border-radius:10px;padding:18px 16px}.plan.featured{border:2px solid #E85D4C;background:#FFF1EB}.plan .badge{display:inline-block;background:#E85D4C;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px;font-weight:700}.plan .price{font-size:1.5rem;font-weight:700;color:#C94A3C;margin:4px 0}.plan .annual{font-size:13px;color:#555}.plan ul{margin:10px 0 0}details{background:#fff;border:1px solid #F0D8D0;border-radius:8px;margin-bottom:10px;padding:4px 12px}summary{font-weight:600;padding:10px 0;color:#1A1A1A}details p{margin:0 0 12px;color:#333}footer{background:#2A2A2A;color:#eee;padding:24px 16px;text-align:center;font-size:13px}footer a{color:#FFB4A8}.muted{color:#444;font-size:14px}.cta{display:block;text-align:center;background:#E85D4C;color:#fff;padding:12px 20px;border-radius:8px;font-weight:700;margin:16px 0}</style><header><h1>紅海官方网站</h1><p>高速机场订阅 · VPN 网络加速 · 多端客户端官方下载</p></header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作</a><a href=\"#links\">友链</a></nav><main><section id=\"intro\"><h2>紅海品牌简介</h2><p>紅海是专注于跨境网络加速的机场与 VPN 服务品牌。我们整合优质国际线路与 IPLC 专线资源，为用户提供低延迟、高可用的订阅节点，覆盖流媒体解锁、在线游戏加速、远程办公与日常浏览等多种需求。</p><p>无论您是需要稳定访问国际内容，还是希望多设备共享一条高速通道，紅海都提供清晰透明的套餐与持续维护的节点池。访问紅海官网即可了解最新线路与官方下载指引，快速完成订阅并开始使用。</p><p class=\"muted\">紅海坚持隐私优先：传输全程加密，不记录用户访问日志。服务面向个人与小团队，套餐从入门到企业级均可按月或按年灵活选择。</p></section><section id=\"scenes\"><h2>紅海适用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版及以上套餐提供全节点原生流媒体解锁，可流畅观看主流影视与直播平台，减少缓冲与地区限制带来的困扰。</p><h3>游戏加速与低延迟对战</h3><p>针对热门游戏优化的 IPLC 专线，帮助降低延迟与丢包，适合需要稳定连接的玩家。旗舰版特别包含游戏加速优化。</p><h3>远程办公与学习科研</h3><p>加密通道保护会议与文档传输，适合跨境协作、查阅学术资源或使用海外在线工具的用户。多设备同时在线方便手机与电脑共用。</p><h3>日常跨境浏览与轻量使用</h3><p>基础版每月 100GB 流量即可满足轻度访问与资讯需求，三台设备同时在线对个人用户足够友好。</p></section><section id=\"guide\"><h2>紅海操作说明：五步开始加速</h2><p>按照以下纵向步骤，即可从选购到连上紅海节点。流程可在手机上完整完成。</p><ol class=\"steps\"><li><strong>选择套餐并完成订阅</strong><br>根据流量与设备数量选择基础版、旗舰版或团队版。按年付可享更优惠价格，订阅后立即获得专属订阅链接。</li><li><strong>复制紅海订阅地址</strong><br>登录用户中心一键复制通用订阅 URL，请妥善保管，勿公开分享以免流量被盗用。</li><li><strong>下载对应平台客户端</strong><br>Windows、macOS、Android、iOS 与 Linux 均有成熟客户端。详见下方客户端下载说明，优先使用各系统官方渠道版本。</li><li><strong>导入订阅并更新节点</strong><br>在客户端中选择从 URL 更新或添加订阅，粘贴紅海链接，等待节点列表刷新。建议开启自动更新。</li><li><strong>选择节点并连接</strong><br>根据需求选择流媒体、游戏或普通线路，开启系统代理或 TUN 模式即可分流加速。遇到问题可查阅常见问题或提交工单。</li></ol><p>完成以上步骤后，即可使用紅海网络加速。建议首次连接时对比几个节点的延迟与解锁表现，再固定常用线路。</p></section><section id=\"plans\"><h2>紅海套餐对比</h2><p>以下为当前在售套餐，价格与权益以订阅页面为准。旗舰版适合大多数个人用户，在流量、设备数与线路质量之间较为均衡。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><span class=\"badge\">推荐 · 旗舰版</span><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><a class=\"cta\" href=\"#download\">前往了解客户端下载与导入方式</a></section><section id=\"download\"><h2>紅海客户端下载与导入</h2><p>紅海采用通用订阅协议，兼容主流代理客户端。请根据设备选择软件，从紅海用户中心复制订阅链接后导入。本站为官网说明页，客户端请通过各系统官方渠道获取，以确保安装包来源可信。</p><h3>桌面端</h3><p>Windows 可使用 Clash Verge、v2rayN 或 sing-box 图形客户端；macOS 可使用 ClashX Meta、Surge 或 Stash。导入订阅后开启系统代理即可开始加速。</p><h3>移动端</h3><p>Android 可使用 Clash Meta for Android；iOS 可使用 Shadowrocket、Quantumult X 或 Stash。导入后建议配置分流规则，减少不必要的流量消耗。</p><p class=\"muted\">紅海不捆绑安装包。获取订阅后请尽快在官方客户端中添加，并定期更新内核与规则集。官网下载指引仅说明兼容方式，具体安装请以各客户端官方页面为准。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>紅海是什么服务？和普通 VPN 有何不同？</summary><p>紅海是机场类型的订阅制网络加速服务，提供多个优质节点与协议，用户通过 Clash 等客户端自行选择线路。相比单一入口的传统 VPN，机场通常节点更多、可按规则分流，更适合同时满足流媒体、游戏与日常访问。紅海强调线路质量与流媒体解锁能力。</p></details><details><summary>如何购买紅海套餐并获取官方订阅？</summary><p>在紅海官网或用户中心选择对应套餐完成支付后，即可在控制台复制订阅链接。建议收藏本页并认准官方域名，避免钓鱼站点。支付成功后节点即时生效，可立即在客户端导入使用。</p></details><details><summary>紅海支持哪些设备同时在线？超出会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线。超出限制时新设备可能无法连接或挤掉旧会话，请合理分配。同一账号的订阅可在多台设备导入，但请勿分享给无关人员。</p></details><details><summary>流量如何计算？用完或套餐到期怎么办？</summary><p>流量按实际代理消耗统计，每月周期重置。用尽后需升级或等待下月重置。到期前可在用户中心续费，按年付更划算。未使用完的流量一般不结转，具体以套餐说明为准。</p></details><details><summary>紅海节点是否能解锁流媒体？游戏延迟如何？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁，覆盖常见影视平台。游戏方面，IPLC 专线针对热门对战与手游做了优化，实际延迟因地区与运营商而异，建议多试几个节点。基础版提供基础解锁，重度流媒体用户建议选择旗舰版。</p></details><details><summary>使用紅海安全吗？会记录上网日志吗？</summary><p>紅海采用标准加密协议传输，不记录用户访问日志。请从官网获取订阅、使用正版客户端，并注意保护订阅链接。任何加速服务都无法替代良好的密码习惯与双因素认证。</p></details><details><summary>遇到无法连接或速度慢时如何处理？</summary><p>先更新订阅与客户端内核，切换节点或协议后再测速。检查本地防火墙、系统时间与分流规则。仍无法解决时，旗舰版与团队版用户可走优先工单，我们将协助排查线路与配置问题。</p></details></section><section id=\"ads\"><h2>广告合作</h2><p>紅海官网接受与网络工具、跨境服务、开发者社区相关的文字链与品牌展示合作。有意向的伙伴可通过工单联系，我们将评估内容相关性与用户体验后再行安排版位。</p></section><section id=\"links\"><h2>友情链接</h2><p>以下为相关主题导航，方便了解加速器生态与客户端用法。交换友链请确保站点内容健康、可正常访问。</p><ul><li><a href=\"#\">科学上网与机场选购指南</a></li><li><a href=\"#\">Clash 客户端配置教程</a></li><li><a href=\"#\">iOS Shadowrocket 使用说明</a></li><li><a href=\"#\">IPLC 专线与游戏加速科普</a></li><li><a href=\"#\">隐私保护与加密协议入门</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>紅海官网 · 机场订阅与 VPN 网络加速服务</p><p><a href=\"#intro\">返回顶部</a> · <a href=\"#\">网站地图</a> · <a href=\"#faq\">常见问题</a></p><p>© 紅海 保留所有权利。本页为品牌介绍与官方下载指引，实际套餐与节点以用户中心实时显示为准。</p></footer>",
+          "hash": "cde09212e092c7622327ca409136499db8f2dcb8c472502e9f24aaca18edac76",
+          "seo": {
+            "title": "紅海官网｜紅海机场 VPN 加速器客户端下载与订阅服务",
+            "keywords": "紅海,紅海机场,紅海VPN,紅海官网,机场订阅,VPN加速器,网络加速,梯子,客户端下载,Clash客户端,Shadowrocket,IPLC专线",
+            "description": "紅海提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体、优化游戏延迟，套餐灵活，欢迎访问紅海官网获取官方下载与使用指南。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfhxm.cn",
+    "host": "p-e70ec4990f.qfhxm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qfhxm.cn",
+      "url": "https://qfhxm.cn/",
+      "label": "Xeno",
+      "apex": "qfhxm.cn",
+      "kind": null,
+      "identity": "jkcgyju7/page-651b2ba1175f93b8feb11287"
+    },
+    {
+      "host": "clcrnw.com",
+      "url": "https://clcrnw.com/",
+      "label": "紅海",
+      "apex": "clcrnw.com",
+      "kind": null,
+      "identity": "bhkatbwmt/page-2671c25128831336fca655ab"
+    },
+    {
+      "host": "huichuhuo.com",
+      "url": "https://huichuhuo.com/",
+      "label": "紅海",
+      "apex": "huichuhuo.com",
+      "kind": null,
+      "identity": "uhqyqq1/page-d03f9cbd1e85328adc85c961"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6ae5dd509db1c454227cf5f70fb79a589950d9f40494cc2dc3eb26c3928dc335",
+    "sitemap.xml": "b8f2f7bf25c51b550bd3e57320a2f942701e55d73d74252afd16d4c75576b8dc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7b2c9fa8478a1553485983f5c7b33115943034d33c68e8b407dd526ba4c71db3",
+    "robots.txt": "1fdbdd159ec3ad517f2c9e8a7adf29d24e0b951e70fd11fdc4f76d097aab4b86",
+    "b99d20480753d5f71b9d95c1317ae373.txt": "f322252ab726e7d56534e351a136154be0ddefd0f4c5118ab2b06b124824d0da"
+  },
+  "revision": "b4d7830527151e29eddd0dd5a2d6e6ad38c9b71dd02b0a5a21fdbc54e19d9405"
+}
